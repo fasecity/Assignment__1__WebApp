@@ -12,12 +12,53 @@
     </div>
     
     <div class="BioName">
-        <h2 id="bio"></h2>
-         <p>My names Mo.</p>
-             <p></p>
-             <p></p>
+        <h2 class="bio"></h2>
+         <p>My names Mo.Im a software engineering student. Im currently Getting into game
+             development and animation. I also make music on my spare time.
+             here is a taste:
+         </p>
+      
+         <div>
+            <audio controls>
+             <source src="Assets/neverEndingSong.wav">Assets/neverEndingSong.wav" type="audio/wav">
+            </audio>
+        </div>
+        <h3>Jobs</h3>
+        <div class="jobs3">
+            
+                <p>Employer: Microhard</p>
+                <p>Date: Jan/2001 - jan 2005</p>
+                <p>responsibilities: 3d design</p>
+              <ul> 
+             <li>information gathering</li>
+                   <li>game design</li>
+                   <li>scripting</li>
+            </ul>
+        </div>
+        <div class="jobs2">
+           
+                <p>Employer: Orange</p>
+                <p>Date: Jan/2005 - jan 2007</p>
+                <p>responsibilities:</p>
+            <ul>
+                <li>worked with the database backend</li>
+                <li>prevented sql injections</li>
+             </ul>
+        </div>
+        <div class="jobs3">
+            
+                <p>Employer: Id software</p>
+                <p>Date: Jan/2009 - jan 2016</p>
+                <p>responsibilities:</p>
+            <ul>
+                <li>3d modeling</li>
+                <li>user interface design</li>
+                <li>game design</li>
+            </ul>
+        </div>
+           </div>  
 
-    </div>
+    
     
     
     <%--<h2><%: Title %>.</h2>

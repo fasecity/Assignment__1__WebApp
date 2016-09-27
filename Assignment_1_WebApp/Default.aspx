@@ -3,9 +3,12 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
+        <div class="change">
         <h1>Mohamoud Mohamed</h1>
-        <p class="lead">Portfolio</p>
-      <%--  <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>--%>
+         <p class="lead">Portfolio</p>
+        </div>
+           
+        <%--  <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>--%>
     </div>
 
     <div class="row">

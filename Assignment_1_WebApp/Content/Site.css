@@ -2,10 +2,10 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
-    background-image: url('../Assets/pexels-photo-168765(1).jpeg');
-    background-repeat:no-repeat;
-  background-size: cover;
-
+    background-image: url('../Assets/purple.jpg');
+  background-size:auto;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Wrapping element */
@@ -45,34 +45,38 @@ textarea {
     line-height: 2.1428571435;
     color: inherit;
     /*background-color: rgba(37, 112, 109, 0.18);*/
-    text-align: center;
-    
-    color: #ffffff;
-     /*this code is from cssmatic.com*/  
-background: rgba(20,130,145,0.18);
+   
+     text-align: center;
+    background-image: url('../Assets/citydase.jpg');
+    background-repeat:repeat;
+   
+
+     /*background: rbga(177,455,888,.56) color: #ffffff;
+    background: rgba(20,130,145,0.18);*/
+    /*this code is from cssmatic.com*/
+    /*background: rgba(20,130,145,0.18);
 background: -moz-linear-gradient(left, rgba(20,130,145,1) 0%, rgba(130,52,126,0.18) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(20,130,145,0.18)), color-stop(100%, rgba(130,52,126,0.18)));
 background: -webkit-linear-gradient(left, rgba(20,130,145,0.18) 0%, rgba(130,52,126,0.18) 100%);
 background: -o-linear-gradient(left, rgba(20,130,145,0.18) 0%, rgba(130,52,126,0.18) 100%);
 background: -ms-linear-gradient(left, rgba(20,130,145,0.18) 0%, rgba(130,52,126,0.18) 100%);
 background: linear-gradient(to right, rgba(20,130,145,0.18) 0%, rgba(130,52,126,0.18) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#148291', endColorstr='#82347e', GradientType=1 );
-
-
-
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#148291', endColorstr='#82347e', GradientType=1 );*/
 }
 .navbar-inverse {
     /*background-color: #0a3f33;*/
     border-color: #000000;
-  /*this code is from cssmatic.com*/  
-background: rgba(20,130,145,1);
+ /*background: rgba(20,130,145,1);*/
+     /*this code is from cssmatic.com*/  
+/*background: rgba(20,130,145,1);
+
 background: -moz-linear-gradient(left, rgba(20,130,145,1) 0%, rgba(130,52,126,1) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(20,130,145,1)), color-stop(100%, rgba(130,52,126,1)));
 background: -webkit-linear-gradient(left, rgba(20,130,145,1) 0%, rgba(130,52,126,1) 100%);
 background: -o-linear-gradient(left, rgba(20,130,145,1) 0%, rgba(130,52,126,1) 100%);
 background: -ms-linear-gradient(left, rgba(20,130,145,1) 0%, rgba(130,52,126,1) 100%);
 background: linear-gradient(to right, rgba(20,130,145,1) 0%, rgba(130,52,126,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#148291', endColorstr='#82347e', GradientType=1 );
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#148291', endColorstr='#82347e', GradientType=1 );*/
 
 }
 .navbar-inverse .navbar-brand {
@@ -107,14 +111,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#148291', end
 }
 .aboutPic {
    padding-top:20px;
-     align-content:center;
-     align-items:center;
+     
+     
      
      
 }
 .tagline  {
     
-    color:antiquewhite;
+    color:aliceblue;
     text-align:center;
     font-family: 'Permanent Marker', cursive;
 
@@ -122,5 +126,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#148291', end
 h1, .h1 {
     font-size: 50px;
     font-family: 'Permanent Marker', cursive;
-    color:burlywood;
+    color:cornsilk;
+}
+.BioName {
+    font-size: 22px;
+    font-family: 'Lato', cursive;
+    color:aliceblue;
+    text-align:start;
+    
+}
+.con{
+    color:honeydew
+}
+.change{
+    color:aliceblue
+}
+.btn {
+    background-color:crimson;
+    color:aliceblue;
 }

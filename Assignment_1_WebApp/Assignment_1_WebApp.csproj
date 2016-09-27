@@ -108,12 +108,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Assets\citydase.jpg" />
     <Content Include="Assets\moepic.jpg" />
     <Content Include="Assets\neverEndingSong.wav" />
     <Content Include="Assets\pexels-photo-1.jpeg" />
     <Content Include="Assets\pexels-photo-126438.jpeg" />
     <Content Include="Assets\pexels-photo-168765%281%29.jpeg" />
     <Content Include="Assets\pexels-photo-168765.jpeg" />
+    <Content Include="Assets\purple.jpg" />
     <Content Include="Assets\sea-black-and-white-water-ocean%281%29.jpg" />
     <Content Include="Assets\sea-black-and-white-water-ocean.jpg" />
     <Content Include="Contact.aspx" />
